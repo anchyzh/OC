@@ -1,0 +1,7 @@
+﻿  Allocator.cpp
+C:\Users\lint1\Desktop\Lab1OS\Lab1OS\Allocator.cpp(179,26): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\lint1\Desktop\Lab1OS\Lab1OS\Allocator.cpp(200,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Создание кода...
+C:\Users\lint1\Desktop\Lab1OS\Lab1OS\Allocator.cpp(300): warning C4715: Allocator::AllIsEmpty: значение возвращается не при всех путях выполнения
+  Lab1OS.vcxproj -> C:\Users\lint1\Desktop\Lab1OS\Debug\Lab1OS.exe
