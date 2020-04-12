@@ -1,0 +1,12 @@
+﻿  ConsoleApplication2.cpp
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(90,17): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(110,17): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): warning C4477: "printf": в строке форматирования "%08lx" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "uintptr_t"
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): message : рекомендуется использовать "%llx" в строке форматирования
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): message : рекомендуется использовать "%Ix" в строке форматирования
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): message : рекомендуется использовать "%I64x" в строке форматирования
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): warning C4477: "printf": в строке форматирования "%08lx" требуется аргумент типа "unsigned long", но вариативный аргумент "2" имеет тип "uintptr_t"
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): message : рекомендуется использовать "%llx" в строке форматирования
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): message : рекомендуется использовать "%Ix" в строке форматирования
+D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(169,16): message : рекомендуется использовать "%I64x" в строке форматирования
+  ConsoleApplication2.vcxproj -> D:\Мої документи\Завантаження\Telegram Desktop\OS-lr2_-master\x64\Debug\ConsoleApplication2.exe
